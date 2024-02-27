@@ -1,0 +1,264 @@
+#port
+{
+    width: 316px;
+    height: 64px;
+    margin-left: 59px;
+    background-color:#4A68BE;
+    color: #f5f5f4;
+    font-family: "Inter";
+    letter-spacing: 10px;
+    font-size: 10px;
+    line-height: 75px;
+    text-indent: 50px;
+    position: relative;
+    top: -27px;
+}
+
+#hline
+{
+    height: 1.5px;
+    width: 618px;
+    background-color: #3A478D;
+    position: relative;
+    left: 375px;
+    top: -29px;
+}
+
+#name
+{
+  font-family: "Inter";
+  color: #000000;  
+  font-style: italic;
+  font-weight: 1000;
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  font-size: 48px;
+  letter-spacing: 30px;
+  position: relative;
+  left: 50px;
+  top: -40px;
+}
+
+#prof
+{
+  font-family: "Inter";
+  color: #000000;  
+  font-style: italic;
+  font-size: 27px;
+  letter-spacing: 4px;
+  position: relative;
+  left: 50px;
+  top: -40px;
+  font-weight: 700;
+}
+
+#hline1
+{
+    height: 1px;
+    width: 932px;
+    background-color: #000000;
+    position: relative;
+    top: -55px;
+    left: 50px;
+}
+
+#info
+{
+    font-family: "Inter";
+    font-size: 17px;
+    letter-spacing: 6px;
+    font-style: italic;
+    display: flex;
+    color: #000000;
+    gap: 54px;
+    position: relative;
+    left: 45px;
+    top: -60px;
+    font-weight: 500;
+}
+
+#hline2
+{
+    height: 1.5px;
+    width: 932px;
+    background-color: #000000;
+    position: relative;
+    top: -63px;
+    left: 50px;
+}
+
+#EdBx
+{
+    background-color: #D9D9D9;
+    height: 589px;
+    width: 452px;
+    position: relative;
+    left: 980.5px;
+    top: -1049px;
+}
+
+#Ed
+{
+    font-family: "Inter";
+    font-size: 25px;
+    letter-spacing: 12px;
+    color: #3A478D;
+    font-weight: bolder;
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+
+#matri
+{
+    font-family:"Inter";
+    font-size: 18px;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+    font-weight: bolder;
+    position: relative;
+    left: 53px;
+    letter-spacing: 2px;
+}
+
+#date
+{
+    font-family: "Inter";
+    font-size: 16px;
+    text-decoration: underline;
+    font-style: italic;
+    text-decoration-thickness: 1px;
+    font-weight: 700;
+    position: relative;
+    left: 50px;
+}
+
+#Pri
+{
+    font-family: "Inter";
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+}
+
+#high
+{
+    font-family:"Inter";
+    font-size: 18px;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+    font-weight: bolder;
+    position: relative;
+    left: 53px;
+    letter-spacing: 2px;
+
+}
+
+#sklz
+{
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: bolder;
+    font-style: italic;
+    position: relative;    
+    top: -1690px;
+    left: 45px;
+    letter-spacing: 10px;
+    color: #3A478D;
+}
+
+#skls
+{
+    font-family: "Inter";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 50px;
+    position: relative;
+    top: -1700px;
+    left: 30px;
+
+}
+
+#scls
+{
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: bolder;
+    font-style: italic;
+    position: relative;
+    top: -1700px;    
+    left: 45px;
+    letter-spacing: 10px;
+    color: #3A478D;
+}
+
+#GitH
+{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: -1700px;
+    left: 40px;
+    display: inline;
+    gap: 100px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 50px;
+    
+}
+
+#LeetC
+{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: -1630px;
+    left: -380px;
+    display: inline;
+    gap: 100px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 50px;
+}
+
+#Li
+{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: -1560px;
+    left: -840px;
+    display: inline;
+    gap: 100px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 50px;
+}
+
+#PicBx
+{
+    height: 500px;
+    width:450px;
+    background-color: #ECE9E9;
+    position: relative;
+    top: -520px;
+    left: 982px;
+}
+
+#pfp
+{
+    height:500px;
+    width: 460px;
+    position: relative;
+    top: -1020px;
+    left: 980px;
+}
